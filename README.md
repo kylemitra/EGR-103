@@ -1,2 +1,2 @@
 # EGR103
-MATLAB Scripts from F17
+MATLAB Scripts from Fundamentals of Electrical and Computer Engineering F17
